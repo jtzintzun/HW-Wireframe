@@ -1,0 +1,29 @@
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+body {
+    background-color: #777;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial;
+    color: #ebebeb;
+}
+
+.section {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.bold {
+  font-weight: bold;
+}
+}
+.center {
+  text-align: center;
+}
