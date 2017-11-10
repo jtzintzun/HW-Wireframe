@@ -5,6 +5,7 @@ h1 {
 }
 body {
     background-color: #777;
+    width: 960px;
 }
 
 p {
@@ -23,7 +24,7 @@ p {
 .bold {
   font-weight: bold;
 }
-}
-.center {
-  text-align: center;
+
+.bold {
+  font-weight: bold;
 }
